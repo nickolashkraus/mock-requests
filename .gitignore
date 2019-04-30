@@ -1,0 +1,5 @@
+# Unix
+*.swp
+
+# Python
+*.pyc
