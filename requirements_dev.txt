@@ -1,3 +1,5 @@
-nose
+black
+isort
+pytest
 
 -r requirements.txt
